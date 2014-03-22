@@ -3,7 +3,7 @@ ZeloForm
 
 Código "Prefabricado" de una formulario con una validación jQuery.
 
-<a href="http://fufales.com/sharedcospro/zeloform/">
+<a target="_blank" href="http://fufales.com/sharedcospro/zeloform/">
 DEMO ONLINE
 </a>
 
