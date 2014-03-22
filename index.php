@@ -96,6 +96,10 @@
 					Klooid.com dev™
 				</a>
 				|
+				<a target="_blank" href="http://necolas.github.io/normalize.css/">
+					Normalize css
+				</a>
+				|
 				<a target="_blank" href="http://css3pie.com/">
 					CSS PIE
 				</a>
@@ -110,7 +114,7 @@
 				|
 				<a target="_blank" href="https://www.facebook.com/klooidcr">
 					Facebook
-				</a>
+				</a>				
 				
 			</p>
 		</div>
